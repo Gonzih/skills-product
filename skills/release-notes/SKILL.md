@@ -28,3 +28,8 @@ Assemble the full release notes document with the header, categorized changes, a
 
 ## Example outputs
 A formatted release notes document with a narrative header, categorized bullet points written in plain language, and a migration guide section if breaking changes are present. Suitable for a changelog page, email announcement, or in-app notification.
+
+## Live Data Sources
+- **GitHub Releases API** — Fetch release metadata, tag names, and associated commits directly from the repository to auto-populate version history and ensure no changes are missed.
+- **Keep a Changelog Format Standards** (`keepachangelog.com`) — Apply the canonical changelog format (Added / Changed / Deprecated / Removed / Fixed / Security) to ensure consistent, machine-readable structure across releases.
+- **Semantic Versioning Spec** (`semver.org`) — Validate version number increments (MAJOR.MINOR.PATCH) against the nature of changes to produce accurate, spec-compliant version bumps.

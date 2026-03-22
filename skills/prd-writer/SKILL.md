@@ -32,3 +32,8 @@ Invite the user to review the draft. Offer to expand any section, add technical 
 
 ## Example outputs
 A complete PRD markdown document, typically 400–800 words, ready to paste into Notion, Confluence, or a GitHub issue. Sections are clearly headed and the open questions section flags blockers proactively.
+
+## Live Data Sources
+- **ProductHunt API** (`ph.com/api`) — Query competitor product listings and feature announcements to identify gaps and differentiation opportunities for the problem statement and scope sections.
+- **App Store Review RSS Feeds** — Pull recent user reviews for competitor apps to surface recurring pain points and unmet needs; use as evidence in the Problem Statement and Target Users sections.
+- **GitHub Issues & Discussions** — Mine open issues and discussion threads in open-source competitor repositories to identify feature requests, bugs users work around, and community sentiment.
