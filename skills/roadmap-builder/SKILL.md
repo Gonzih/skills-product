@@ -33,3 +33,8 @@ Identify initiatives that must be completed before others can start. Produce a s
 
 ## Example outputs
 A roadmap document with a theme overview, a prioritized initiative table, and a dependency list. Optionally formatted as a now/next/later grid. Suitable for presenting in a planning meeting or embedding in a strategy doc.
+
+## Live Data Sources
+- **ProductHunt Trending Launches** (`ph.com/api`) — Monitor recently launched and trending products to identify emerging market patterns and time initiatives against category momentum.
+- **GitHub Star History API** (`star-history.com`) — Track star growth trajectories for open-source competitors to gauge traction, adoption curves, and when to prioritize defensive or offensive initiatives.
+- **Hacker News 'Ask HN' Pattern Mining** — Analyze recurring 'Ask HN' threads to surface unmet developer and builder needs that map to roadmap themes and initiatives.

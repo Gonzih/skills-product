@@ -31,3 +31,7 @@ Order stories by business value and dependency chain. Group into a suggested spr
 
 ## Example outputs
 A numbered backlog of 8–15 user stories in a table or structured list, with each story fully specified and a sprint grouping at the end. Output is ready to copy into Jira, Linear, or any sprint planning tool.
+
+## Live Data Sources
+- **Intercom JTBD Research Frameworks** (`intercom.com/resources`) — Reference Jobs-to-be-Done interview guides and templates to ensure user stories are grounded in real job triggers, desired outcomes, and hire/fire criteria.
+- **Nielsen Norman Group Public Research** (`nngroup.com`) — Draw on published usability research, heuristics, and UX findings to validate personas and acceptance criteria against evidence-based design standards.
