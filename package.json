@@ -1,0 +1,33 @@
+{
+  "name": "@gonzih/skills-product",
+  "version": "1.0.0",
+  "description": "Claude Code skill suite for product managers and product owners",
+  "type": "module",
+  "bin": {
+    "skills-product": "./install.js"
+  },
+  "scripts": {
+    "postinstall": "node install.js"
+  },
+  "files": [
+    "skills/",
+    "install.js",
+    "README.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "claude",
+    "claude-code",
+    "skills",
+    "product-management",
+    "prd",
+    "user-stories",
+    "roadmap",
+    "release-notes"
+  ],
+  "author": "gonzih",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}
